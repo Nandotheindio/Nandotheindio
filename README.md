@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nandotheindio
-- 👀 I’m interested in games
-- 🌱 I’m currently learning java, javascript , lua , html
+-  PAYSANDU ❤ !!
 - 📫 How to reach me nandobunitu@gmail.com
 
 <!---
